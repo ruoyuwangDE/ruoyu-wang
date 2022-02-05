@@ -1,4 +1,4 @@
-# ruoyu-wang
+# Autopilot Simulation of Drones in Unity
 该项目旨在将前一个项目中的Autopilot程序从python移植到unity中，通过3D模型尽可能还原在真实情况中程序对无人机的控制效果。
 通过该项目想要达到的效果：
   1. 编写一个无人机的基本控制程序（通过按键控制无人机前后左右，爬升下降，沿z轴旋转 等移动），从而学习无人机动力学
